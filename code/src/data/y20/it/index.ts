@@ -1,4 +1,4 @@
-import { SemesterResult } from "../shared";
+import { SemesterResult } from "../../shared";
 
 export const y20IT: SemesterResult[] = [
   { semester: "1.1", url: "http://www.becbapatla.ac.in:8080/collegeresults/11_r20_reg_jul21_3t4l.html", available: true },
